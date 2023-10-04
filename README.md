@@ -37,7 +37,7 @@ Here are the technologies used in this project.
 
 2.0.0
 
-## 3 Authors
+## Authors
 
 * **Kaique Santos**
 * **Marcos Costa**
