@@ -5,6 +5,10 @@ Container loading problem solved using Genetic Algorithm approach
 
 <img src="https://raw.githubusercontent.com/kaiqu3santos/Genetic_Algorithm_Container_Loading_Problem/main/Container-Loading-Problem.gif" alt="Container Loading Problem GIF">
 
+## Problem description
+
+The problem consists of stacking 18 containers with the same mass and size on a ship, 9 on the first floor and 9 on the second, with the aim of minimizing the ship's instability.
+
 ## Technology
 
 Here are the technologies used in this project.
