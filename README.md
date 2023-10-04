@@ -1,4 +1,4 @@
-![logo of the project].(https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Ftopics%2Fcontainer-loading-problem&psig=AOvVaw2lyIz3f4cfCJXOaH5_UUPb&ust=1696513339520000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJjj4YTD3IEDFQAAAAAdAAAAABAH0
+![logo of the project].(https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Ftopics%2Fcontainer-loading-problem&psig=AOvVaw2lyIz3f4cfCJXOaH5_UUPb&ust=1696513339520000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJjj4YTD3IEDFQAAAAAdAAAAABAH0)
 
 ## Container Loading Problem - Genetic Algorithm
 Container loading problem solved using Genetic Algorithm approach
