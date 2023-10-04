@@ -30,7 +30,7 @@ Here are the technologies used in this project.
 * To run the project
 
     ```sh
-   python Container-loading_problem.py
+   python Container_loading_problem.py
    ```
 
 ## Versioning
