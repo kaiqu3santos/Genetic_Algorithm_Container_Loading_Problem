@@ -3,6 +3,8 @@
 ## Container Loading Problem - Genetic Algorithm
 Container loading problem solved using Genetic Algorithm approach
 
+<img src="https://raw.githubusercontent.com/kaiqu3santos/Genetic_Algorithm_Container_Loading_Problem/main/Container-Loading-Problem.gif" alt="Container Loading Problem GIF">
+
 ## Technology
 
 Here are the technologies used in this project.
